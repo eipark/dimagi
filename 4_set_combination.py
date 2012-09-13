@@ -49,8 +49,8 @@ digits_one = [1,2,3,4,5,6,7,8,9]
 # setCombo([digits_one, digits, digits, digits])
 
 # Single list input
-setCombo([digits])
-setCombo([[1]])
+#setCombo([digits])
+#setCombo([[1]])
 
-setCombo([digits, ["x"]])
+#setCombo([digits, ["x"]])
 
